@@ -23,7 +23,7 @@ const MovieCard = ({ movie }) => {
         </h3>
 
         <p className="text-xs text-gray-400">
-          ⭐ {movie.vote_average?.toFixed(1) || "N/A"}
+          {movie.vote_average?.toFixed(1) || "N/A"}
         </p>
       </div>
 
