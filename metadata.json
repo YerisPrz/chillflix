@@ -1,0 +1,6 @@
+{
+  "name": "Chillflix",
+  "description": "Una plataforma premium interactiva para buscar, calificar y descubrir tus películas y series favoritas con diseño cinematográfico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
